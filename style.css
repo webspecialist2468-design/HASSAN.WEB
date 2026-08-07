@@ -1,25 +1,23 @@
 body {
-    background-color: lightblue;
+    background-color: black;
     text-align: left;
     font-size: medium;
 }
 
 h1 {
-    color: red;;
+    color: red;
 }
 nav {
-    background-color: lightblue;
-    text-align: bottom;
-    color: red;
+    background-color: black;
+    text-align: left;
+    color: blue;
     font-size: 18px; /* normal-paragraph */
     padding: 20px;
 }
-    p2 {
-        color: blue;
-    }
+
 
     p {
-        color:black;
+        color:white;
     font-size: 18px; /* normal-paragraph */
 }
 
