@@ -1,3 +1,3 @@
 function openmessage() {
-     alert("HYOU ARE MOST WELCOME TO MY NATION.");
+     alert("BEFORE YOU LEAVE, ENSURE THAT YOU HAVE UNDERSTOOD EVERYTHING.");
 }
