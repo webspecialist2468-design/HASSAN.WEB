@@ -20,9 +20,12 @@ nav {
         color:white;
     font-size: 18px; /* normal-paragraph */
 }
-nutton [
-    button-s
-]
+nutton {
+    font-size: 18px;
+    display: block;
+    margin: 20p auto;
+    padding: 12px  25px;
+}
 
 
 
