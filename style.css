@@ -27,9 +27,9 @@ nutton {
     padding: 12px  25px;
 }
 img {
-    width: 100%; 
-    max-height: 400px;
-    height: auto;
+    width: 100%; /* make it responsive*/
+    max-height: 400px; /* this is the key limits size*/
+    height: auto; /* keeps proportions*/
     display: block;
     margin: 20px auto;
     border-radius: 10px;
