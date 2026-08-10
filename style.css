@@ -9,10 +9,11 @@ h1 {
 }
 nav {
     background-color: black;
-    text-align: right;
+    text-align: center;
     color: blue;
     font-size: 18px; /* normal-paragraph */
     padding: 20px;
+    
 }
 
 
